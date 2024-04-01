@@ -1,3 +1,9 @@
+---
+title: Example Title
+draft: true
+tags:
+  - example-tag
+---
 The heart of Emberhold beats with the rhythm of commerce in the vibrant Rustling Square. Awash with a kaleidoscope of colors and a symphony of scents, this bustling marketplace is where locals and visitors alike gather to barter, gossip, and fill their baskets with the necessities (and perhaps a few delights) of life.
 
 ### Description

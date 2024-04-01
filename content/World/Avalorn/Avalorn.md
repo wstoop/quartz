@@ -1,5 +1,11 @@
+---
+title: Example Title
+draft: true
+tags:
+  - example-tag
+---
 ```leaflet  
-id: Avalorn  
+id: Avalorn_1  
 
 ### Lock pins so they can't be moved  
 lock: true  
