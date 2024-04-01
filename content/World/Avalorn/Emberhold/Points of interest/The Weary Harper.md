@@ -17,5 +17,5 @@ Nestled in the northwest corner of Emberhold, The Weary Harper is a haven for tr
 
 
 ### NPCs
-- **Barnaby (Barkeeper),** a burly human man with a salt-and-pepper beard perpetually stained with ale. Despite his gruff exterior, Barnaby has a kind eye and a knack for remembering faces. He wields a tankard like a weapon and keeps a watchful eye on the room, ensuring a lively yet peaceful atmosphere.
-- **Grom (Dwarf Fighter):** This gruff dwarf, his armor scarred and dented, sits nursing a tankard of ale. He's a retired adventurer, his tales of past exploits both thrilling and embellished in equal measure. Grom might be persuaded to join the party for a lucrative enough quest, or at least point them in the right direction.
+- [[Barnaby]]
+- [[Grom]]

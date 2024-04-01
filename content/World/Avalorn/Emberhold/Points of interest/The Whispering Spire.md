@@ -16,5 +16,5 @@ The Whispering Spire rises from the northeastern side of Emberhold, a slender to
 
 ### NPCs
   
-- **Eldarion:** the caretaker of the Whispering Spire, is a wizened elf with a face etched with the passage of time. His kind eyes, however, still hold a youthful spark of curiosity and a deep love for knowledge. His long white beard flows down his chest, reaching almost to his waist, and is often flecked with ink from his tireless research. He typically wears simple robes of deep blue, adorned with subtle arcane symbols. Eldarion carries himself with a quiet dignity, his voice a gentle murmur that commands respect even from the most boisterous patrons of the Weary Harper.
-- **Thistle (Gnome Tinker):** A diminutive gnome with a shock of wild, orange hair tinkers with a contraption of gears and springs at a table. Thistle is an eccentric inventor, always on the cusp of a breakthrough. She might offer to upgrade the player's equipment or provide them with a unique gadget in exchange for rare materials or assistance with her latest project.
+- [[Eldarion]]
+- [[Thistle]]
