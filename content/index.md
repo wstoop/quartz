@@ -1,7 +1,8 @@
 ---
 title: "Into Aethel: A DnD Campaign Wiki"
 draft: false
-tags:
+tags: 
+cssclasses:
 ---
 
   Welcome adventurers to the world of Aethel! This wiki is your companion as we delve into the ongoing campaign.
