@@ -1,0 +1,5 @@
+---
+title: Gamor
+draft: 
+tags:
+---

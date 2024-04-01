@@ -15,7 +15,7 @@ tags: []
 ## NPCs That Might Show Up
 
 ## Important Rules
-
+None yet. If any questions arise, check the rules references.
 ## Planned Encounters
 
 ## Recap
