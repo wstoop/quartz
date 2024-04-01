@@ -1,8 +1,7 @@
 ---
 title: Example Title
-draft: false
-tags:
-  - example-tag
+draft: true
+tags: []
 ---
 ## Characters
 
