@@ -1,8 +1,7 @@
 ---
-title: Example Title
+title: Emberhold_MAP
 draft: true
 tags:
-  - example-tag
 ---
 ```leaflet  
 id: Emberhold  

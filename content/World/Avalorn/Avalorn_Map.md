@@ -1,5 +1,5 @@
 ---
-title: Example Title
+title: Avalorn_MAP
 draft: true
 tags:
   - example-tag
