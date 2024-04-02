@@ -1,5 +1,5 @@
 ---
 title: Gamor
-draft: 
+draft: true
 tags:
 ---
