@@ -3,7 +3,7 @@ title: The Rustling Square
 draft: true
 tags: []
 ---
-The heart of Emberhold beats with the rhythm of commerce in the vibrant Rustling Square. Awash with a kaleidoscope of colors and a symphony of scents, this bustling marketplace is where locals and visitors alike gather to barter, gossip, and fill their baskets with the necessities (and perhaps a few delights) of life.
+The heart of [[Emberhold]] beats with the rhythm of commerce in the vibrant Rustling Square. Awash with a kaleidoscope of colors and a symphony of scents, this bustling marketplace is where locals and visitors alike gather to barter, gossip, and fill their baskets with the necessities (and perhaps a few delights) of life.
 
 ### Description
 Step into the Rustling Square, and a wave of sights and smells washes over you. Sturdy stalls overflowing with fresh produce paint the square in a vibrant tapestry. Plump tomatoes vie for attention with glistening eggplants, while ruby-red apples and baskets of juicy peaches tempt the taste buds. Heaps of golden wheat sit next to emerald green cabbages, while strings of fragrant onions dangle overhead. The air hums with the rhythmic thud of a butcher cleaving meat, and the excited chatter of customers haggling over prices.
