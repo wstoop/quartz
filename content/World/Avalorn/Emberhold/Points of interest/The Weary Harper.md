@@ -1,9 +1,9 @@
 ---
 title: The Weary Harper
-draft: true
+draft: false
 tags:
 ---
-Nestled in the northwest corner of [[Emberhold]], The Weary Harper is a haven for travelers, adventurers, and weary locals alike. It's a two-story building constructed of weathered timber, with a slightly crooked sign depicting a lute hanging above the doorway.
+Nestled in the northwest corner of Emberhold, The Weary Harper is a haven for travelers, adventurers, and weary locals alike. It's a two-story building constructed of weathered timber, with a slightly crooked sign depicting a lute hanging above the doorway.
 
 ### Description
 **Downstairs:**
