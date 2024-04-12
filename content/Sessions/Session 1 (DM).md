@@ -1,9 +1,10 @@
 ---
 title: Example Title
 draft: true
-tags: []
+tags:
 ---
 ## Characters
+
 
 ## Current Threads
 
@@ -18,6 +19,3 @@ tags: []
 None yet. If any questions arise, check the rules references.
 ## Planned Encounters
 
-## Recap
-
-## Summary

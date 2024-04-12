@@ -1,6 +1,6 @@
 ---
 title: The Whispering Spire
-draft: true
+draft: false
 tags:
 ---
 The Whispering Spire rises from the northeastern side of [[Emberhold_TEXT|Emberhold]], a slender tower constructed from pale grey stone. Arcane runes etched into its surface shimmer faintly with an otherworldly light, especially at night. The tower is adorned with slender, arched windows that appear to glow with an inner light.
