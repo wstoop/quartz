@@ -17,4 +17,3 @@ The Whispering Spire rises from the northeastern side of [[Emberhold_TEXT|Emberh
 ### NPCs
   
 - [[Eldarion]]
-- [[Thistle]]
