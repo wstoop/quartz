@@ -8,7 +8,7 @@ tags:
 - [[Hugo Den Gerts]]
 - [[Scane, Scot & Scitty]]
 - [[Thalj Samir]]
-- [[Zuri Lamart]]
+- [[Zuri L'amart]]
 ## Places Discovered
 - [[The Weary Harper]]
 - [[The Whispering Spire]]
