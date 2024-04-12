@@ -1,5 +1,5 @@
 ---
-title: Zuri L'amart
+title: Zuri L'amart quest
 draft: true
 tags:
 ---

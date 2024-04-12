@@ -1,5 +1,5 @@
 ---
-title: George Bombast
+title: George Bombast quest
 draft: true
 tags:
 ---

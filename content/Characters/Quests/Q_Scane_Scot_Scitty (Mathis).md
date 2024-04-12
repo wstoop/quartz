@@ -1,5 +1,5 @@
 ---
-title: Scane, Scott & Scitty
+title: Scane, Scott & Scitty quest
 draft: true
 ---
 ## Description
