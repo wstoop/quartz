@@ -4,5 +4,6 @@ draft: false
 tags:
 ---
 
-Avalorn, the heart of Aethel, bears the scars of a glorious past and a tumultuous present. Once a land where powerful magic flowed freely, a devastating event known as the Shattering ripped through the land, leaving behind a fractured world struggling to adapt. 
+Avalorn, the heart of Aethel, bears the scars of a glorious past and a tumultuous present. Once a land where powerful magic flowed freely, a devastating event known as the Shattering ripped through the land, leaving behind a fractured world struggling to adapt.
+![[Cogsmith_Logo.png]]
 ![[Avalorn_map.jpg]]
