@@ -1,0 +1,13 @@
+
+## **The Cogsmiths**:                                       ![[Cogsmith_Logo.png| 100x100]]
+- The Cogsmiths mainly consists of humans, halflings, gnomes and dwarves, renowned across Aethel as the technological pioneers. Their societies are built upon a deep reverence for inventors and tinkerers, individuals who push the boundaries of what's possible through ingenuity and craftsmanship.
+- Within their cities, visitors are treated to awe-inspiring marvels of rudimentary technology. From intricate clockwork mechanisms to steam-powered contraptions, every aspect of Cogsmith society is infused with a spirit of innovation.
+- Cogsmiths take pride in their craftsmanship, with workshops bustling with activity as artisans tirelessly refine their creations. The Cogsmiths' advancements in technology not only benefit their own people but also have far-reaching implications for the entire realm of Aethel.
+## **The Arcane Order**:
+  - The Arcane Order represents a delicate balance between Elves, Humans and other human kin who cling steadfastly to the traditions of magic. For them, the arcane arts are not just a means to an end but a way of life, steeped in centuries of tradition and wisdom.
+  - While they wield formidable magical prowess, the members of the Arcane Order regard technology with a mixture of suspicion and caution. They recognize its utility but fear its potential to upset the natural order of things.
+ - Within their enclaves and citadels, the air crackles with mystical energy as spellcasters weave intricate incantations and conduct esoteric rituals. Their libraries are repositories of ancient knowledge, safeguarding the secrets of magic from falling into the wrong hands.
+## **The Ashen March**:
+- The Ashen March is a grim testament to the resilience and resourcefulness of Orcs, Goblins and those who inhabit the desolate wastelands of Aethel. Unlike the other cultures, they thrive amidst the ruins of former civilizations, scavenging for survival in a harsh and unforgiving landscape.
+  - These rugged nomads are masters of survival, exploiting the magical wastelands for valuable materials and salvaging artifacts from the remnants of bygone eras. However, their methods are often ruthless, and they are feared by both the Cogsmiths and the Arcane Order for their willingness to do whatever it takes to achieve their goals.
+- Despite their reputation as raiders and scavengers, the Ashen March possesses a fierce sense of pride and unity, forging bonds of kinship that transcend individual differences. In their eyes, strength and cunning are virtues to be admired, and they will stop at nothing to ensure the survival and prosperity of their people.
