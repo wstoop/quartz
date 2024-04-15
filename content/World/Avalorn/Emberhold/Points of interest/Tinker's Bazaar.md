@@ -3,7 +3,7 @@ title: Tinker's Bazaar
 draft: false
 tags:
 ---
-Just beyond the clamor of the Market Square lies a narrow alley teeming with the ingenuity of [[Emberhold_TEXT|Emberhold]]'s tinkerers and inventors. Welcome to the Tinker's Bazaar, a haven for those seeking unique wares, ingenious repairs, or perhaps even a spark of inspiration for their own creations.
+Just beyond the clamor of the Market Square lies a narrow alley teeming with the ingenuity of [[Emberhold|Emberhold]]'s tinkerers and inventors. Welcome to the Tinker's Bazaar, a haven for those seeking unique wares, ingenious repairs, or perhaps even a spark of inspiration for their own creations.
 
 ### Description
 The faint clang of hammers and the rhythmic hiss of steam greet you as you step into the Tinker's Bazaar. The narrow alley is a symphony of activity, bustling with patrons and artisans alike. Cobblestones slick with oil glisten underfoot, while overhead, a network of cables strung between buildings carries flickering gas lamps, casting the alley in a warm, amber glow. The air is thick with the scent of burning metal, exotic oils, and the faint whiff of chemicals brewing in unseen concoctions.
