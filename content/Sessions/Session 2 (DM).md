@@ -9,14 +9,19 @@ tags:
 - [[Thalj Samir]]
 - [[Zuri L'amart]]
 ## Current Threads
-- none yet
+- Hugo main quest
+- Kobold brothers quest
+- Main quest
+
+
+
 ## Things the party should know
-- explore the town a bit
-- Artifact, both cog and arcane
-- at least get the feeling that there's something going on
+- Inventor left town heading north (Gamor)
+- Whispering tower cant help with magical rellic, go west (Luminwood)
 ## NPCs That Might Show Up
-- Everyone in town lol
+
 ## Important Rules
-None yet. If any questions arise, check the rules references.
+- attacks only mis if roll < ac
+- Rules for traveling
 ## Planned Encounters
-- none (whoops)
+
